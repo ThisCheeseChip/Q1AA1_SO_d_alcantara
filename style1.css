@@ -1,0 +1,149 @@
+*{
+    padding: 0vh;
+    padding: 0vw;
+    margin: 0vh;
+    margin: 0vw;
+}
+.navbar {
+    padding: 15px;
+    background-image: linear-gradient(to bottom right, black, black, rgb(23, 12, 177));
+    background-size: cover;
+    height: 7.5vh;
+    max-width: 100%;
+}
+
+.image {
+    border: 0vh solid rgb(54, 75, 74);
+        padding: 0vh;
+        width: 5vh;
+        height: 5vh;
+        
+        border-radius: 50%;
+
+        float: left;
+        margin-left: 5vh;
+        margin-top: 1vh;
+
+
+    background-image: url(348822099_145693245158414_7328611253573486878_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 1s;
+}
+
+.navbar a {
+    text-decoration: none;
+    border: 1px black;
+    color: white;
+    float: right;
+    margin: 15px;
+    display: inline;
+    font-size: 30px;
+    transition: 1s;
+}
+
+.navbar a:hover {
+    font-size: 37.5px;
+    transition: 1s;
+    transition-delay: 0.1s;
+    margin-left: 10px;
+}
+
+#footer {
+    padding: 30px;
+    background-image: linear-gradient(to top right, black, black, rgb(23, 12, 177));
+    background-size: cover;
+    height: 4.5vh;
+    max-width: 100%;
+    text-align: right;
+}
+
+.socmed {
+    text-decoration: none;
+    width: 4vh;
+    height: 4vh;
+    display: inline;
+    margin-right: 5vw;
+    margin-bottom: 1vw;
+}
+
+.socmed:hover {
+    width: 4.5vh;
+    height: 4.5vh;
+    transition: 1s;
+    transition-delay: 0.1s;
+}
+
+#fb {
+    margin-right: 0.5vw;
+    transition: 1s;
+}
+
+#twitter {
+    margin-right: 0.5vw;
+    transition: 1s;
+}
+
+#footer p {
+    color: white;
+    float: left;
+    margin-left: 2.5vw;
+    transition: 1s;
+}
+
+.banner {
+    background-image: url(1920x1080-hd-space-1383gsypn0zj5qmt.jpg);
+    color: white;
+    height: 81vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin-left: 2.5vw;
+    transition: 1s;
+}
+
+.images {
+    text-align: center;
+    transition: 1s;
+}
+
+#img1 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
+
+#img2 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
+
+#img3 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
+
+#img4 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
+
+#img5 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
+
+#img6 {
+    height: 256px;
+    width: 256px;
+    transition: 1s;
+}
